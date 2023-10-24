@@ -10,7 +10,7 @@ These algorithms have been implemented in this repository or will be in the futu
 
 - [ ] First Fit Algorithm
 - [ ] Best Fit Algorithm
-- [ ] Compaction & Relocation Algorithm
+- [x] Compaction & Relocation Algorithm
 
 ## Author
 
